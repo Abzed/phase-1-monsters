@@ -1,0 +1,34 @@
+{
+  "monsters": [
+    {
+      "name": "Chronos",
+      "age": 4005.302453418598,
+      "description": "Effulgence eldritch shunned foetid. Ululate gibbering tenebrous foetid iridescence daemoniac. Stench nameless gambrel. Amorphous furtive iridescence noisome. Foetid mortal nameless.",
+      "id": 1
+    },
+    {
+      "name": "Tartarus",
+      "age": 1874.4913565609456,
+      "description": "Cyclopean swarthy amorphous singular accursed furtive non-euclidean stygian. Swarthy gibbering charnel eldritch daemoniac gibbous. Cyclopean lurk hideous tentacles squamous immemorial tenebrous mortal. Madness tentacles furtive mortal foetid decadent. Foetid immemorial comprehension.",
+      "id": 2
+    },
+    {
+      "name": "Nature",
+      "age": "3.1",
+      "description": "aewe",
+      "id": 3
+    },
+    {
+      "name": "Uchiha Madara",
+      "age": "63.1",
+      "description": "Beast. Titan. one-man-army",
+      "id": 4
+    },
+    {
+      "name": "Beta World Developers",
+      "age": "1.1",
+      "description": "Growing. coming. ontheway",
+      "id": 5
+    }
+  ]
+}
